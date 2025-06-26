@@ -1,0 +1,44 @@
+sector,level,subsector,category,url,experts
+Consumer,L1,,,https://redseer.com/industries/consumer,
+Consumer,L2,Retail & Leisure,,https://redseer.com/industries/retail-and-leisure,"Kushal, Rohan"
+Consumer,L3,Retail & Leisure,Digital Marketplaces,https://redseer.com/industries/digital-marketplaces,
+Consumer,L3,Retail & Leisure,Retailers,https://redseer.com/industries/retailers,
+Consumer,L3,Retail & Leisure,Food Services,https://redseer.com/industries/food-services,,,,,,,,,,,,,,,,,,,,,,
+Consumer,L3,Retail & Leisure,Grocery,https://redseer.com/industries/grocery,,,,,,,,,,,,,,,,,,,,,,
+Consumer,L3,Retail & Leisure,Travel and Leisure,https://redseer.com/industries/travel-and-leisure,,,,,,,,,,,,,,,,,,,,,,
+Consumer,L2,Consumer Goods,,https://redseer.com/industries/consumer-goods,"Kushal, Mrigank"
+Consumer,L3,Consumer Goods,Fashion,https://redseer.com/industries/fashion,,,,,,,,,,,,,,,,,,,,,,
+Consumer,L3,Consumer Goods,FMCG,https://redseer.com/industries/fmcg,,,,,,,,,,,,,,,,,,,,,,
+Consumer,L3,Consumer Goods,Food and Beverages,https://redseer.com/industries/food-and-beverages,,,,,,,,,,,,,,,,,,,,,,
+Consumer,L3,Consumer Goods,Beauty and Personal Care,https://redseer.com/industries/beauty-and-personal-care,,,,,,,,,,,,,,,,,,,,,,
+Consumer,L3,Consumer Goods,Luxury,https://redseer.com/industries/luxury,,,,,,,,,,,,,,,,,,,,,,
+Consumer,L3,Consumer Goods,Electronics and Home,https://redseer.com/industries/electronics-and-home,,,,,,,,,,,,,,,,,,,,,,
+Consumer,L3,Consumer Goods,Consumer Health,https://redseer.com/industries/consumer-health,,,,,,,,,,,,,,,,,,,,,,
+Consumer,L2,TMT,,https://redseer.com/industries/technology-media-and-telecommunications,"Mukesh, Mrigank"
+Consumer,L3,TMT,"Content, Media, Social",https://redseer.com/industries/content-media-social,,,,,,,,,,,,,,,,,,,,,,
+Consumer,L3,TMT,Gaming and Experiences,https://redseer.com/industries/gaming-and-experiences,,,,,,,,,,,,,,,,,,,,,,
+Consumer,L3,TMT,Advertising and Marketing Analytics,https://redseer.com/industries/advertising-marketing-analytics,
+Consumer,L3,TMT,EdTech,https://redseer.com/industries/edtech,,,,,,,,,,,,,,,,,,,,,,
+Fintech,L1,,,https://redseer.com/industries/fintech,,,,,,,,,,,,,,,,,,,,,,
+Fintech,L2,BFSI,,https://redseer.com/industries/bfsi,"Chhavi, Jasbir"
+Fintech,L3,BFSI,Payments,https://redseer.com/industries/payments,,,,,,,,,,,,,,,,,,,,,,
+Fintech,L3,BFSI,Lending,https://redseer.com/industries/lending,,,,,,,,,,,,,,,,,,,,,,
+Fintech,L3,BFSI,Investment and Wealth Management,https://redseer.com/industries/investment-wealth-management,,,,,,,,,,,,,,,,,,,,,,
+Fintech,L3,BFSI,Insurance,https://redseer.com/industries/insurance,,,,,,,,,,,,,,,,,,,,,,
+Fintech,L3,BFSI,Neobanks,https://redseer.com/industries/neobanks,,,,,,,,,,,,,,,,,,,,,,
+B2B,L1,,,https://redseer.com/industries/b2b,,,,,,,,,,,,,,,,,,,,,,
+B2B,L2,SaaS and Enterprise Tech,,https://redseer.com/industries/saas-enterprise-tech,"Mukesh, Chhavi"
+B2B,L3,SaaS and Enterprise Tech,HR Tech,https://redseer.com/industries/hr-tech,,,,,,,,,,,,,,,,,,,,,,
+B2B,L3,SaaS and Enterprise Tech,Martech and Mediatech,https://redseer.com/industries/martech-mediatech,,,,,,,,,,,,,,,,,,,,,,
+B2B,L3,SaaS and Enterprise Tech,Advanced Analytics and AI,https://redseer.com/industries/advanced-analytics-ai,,,,,,,,,,,,,,,,,,,,,,
+B2B,L3,SaaS and Enterprise Tech,Other Tech Services,https://redseer.com/industries/tech-services,,,,,,,,,,,,,,,,,,,,,,
+B2B,L2,Manufacturing and Supply Chain,,https://redseer.com/industries/manufacturing-supply-chain,"Chhavi, Jasbir, Mrigank"
+B2B,L3,Manufacturing and Supply Chain,New Age Manufacturing,https://redseer.com/industries/new-manufacturing,,,,,,,,,,,,,,,,,,,,,,
+B2B,L3,Manufacturing and Supply Chain,B2B Logistics and Supply Chain,https://redseer.com/industries/b2b-logistics-supply-chain,,,,,,,,,,,,,,,,,,,,,,
+B2B,L3,Manufacturing and Supply Chain,Hyperlocal,https://redseer.com/industries/hyperlocal,,,,,,,,,,,,,,,,,,,,,,
+B2B,L2,Automotive and Mobility,,https://redseer.com/industries/automotive-mobility,"Rohan, Jasbir"
+B2B,L3,Automotive and Mobility,EV Ecosystem,https://redseer.com/industries/ev-ecosystem,,,,,,,,,,,,,,,,,,,,,,
+B2B,L3,Automotive and Mobility,Traditional Automotive Ecosystem,https://redseer.com/industries/traditional-automotive-ecosystem,,,,,,,,,,,,,,,,,,,,,,
+B2B,L3,Automotive and Mobility,Shared Mobility,https://redseer.com/industries/shared-mobility,,,,,,,,,,,,,,,,,,,,,,
+B2B,L3,Automotive and Mobility,Mobility Infrastructure,https://redseer.com/industries/mobility-infrastructure,,,,,,,,,,,,,,,,,,,,,,
+Investors,L1, , ,https://redseer.com/industries/investors,"Rohan, Mrigank"
